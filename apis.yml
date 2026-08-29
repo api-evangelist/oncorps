@@ -34,6 +34,9 @@ description: >-
   SOC 1 and ISO 27001 certified. No public API or developer program is currently published;
   this profile is maintained as a company record in the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/oncorps/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API or developer program is currently published; this profile is maintained as a company record in the API Evangelist network."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
