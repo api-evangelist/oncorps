@@ -49,10 +49,10 @@ modified: '2026-07-20'
 tags:
 - Company
 - Artificial Intelligence
-- Financial-Services
+- Financial Services
 - Fund Operations
 - Asset Management
-- Agentic AI
+- AI Agents
 - Reconciliation
 - RegTech
 tags_raw:
@@ -64,6 +64,7 @@ tags_raw:
 - Agentic AI
 - Reconciliation
 - RegTech
+- Financial-Services
 apis: []
 common:
 - type: DomainSecurity
